@@ -5,7 +5,7 @@ int main() {
     int m1, m2, m3, m4, m5;
     int total;
     float average;
-    std::cout << " NAME: R SKANDA HERLE \n YEAR:2024-28\n BRANCH:ISE\n SEM:2ND\n COLLEGE:CEC";
+    std::cout << " NAME: YOGAN SUBRAMANYA NAIK \n YEAR:2024-28\n BRANCH:ISE\n SEM:2ND\n COLLEGE:CEC";
     std::cout << " \n**\n";
     cout << "Enter marks for subject 1: ";
     cin >> m1;
