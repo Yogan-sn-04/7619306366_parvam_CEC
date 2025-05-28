@@ -34,6 +34,5 @@ int main() {
     {
         cout << "\tGrade = C";
     }
-
     return 0;
 }
