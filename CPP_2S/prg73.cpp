@@ -7,7 +7,7 @@ int main()
     cout << "Enter the number of elements: ";
     cin >> n;
     cout << "Enter the elements: ";
-    for(i = 0; i < n; i++)
+    for(i =0 ; i < n; i++)
     {
         cin >> a[i];
     }
@@ -24,7 +24,7 @@ int main()
         }
     }
     cout << "Sorted elements: ";
-    for(i = 0; i < n; i++)
+    for(i = 0; i < n; i+=2)
     {
         cout << a[i] << " ";
     }
